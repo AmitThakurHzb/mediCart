@@ -1,0 +1,4 @@
+mediCart
+========
+
+angularJs Implementation.
